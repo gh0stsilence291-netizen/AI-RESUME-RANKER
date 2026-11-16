@@ -47,4 +47,5 @@ python `resume_ranker.py` + **`AI_Resume_Ranker.ipynb`**
 Shows practical NLP skills useful for AI Intern roles. Recruiters love seeing real-world tools.
 
 ## Author
-Made for AI Intern portfolio. Feel free to fork and improve.
+MADE BY MUHAMMAD ALI HASSAN. 
+Feel free to fork and improve.
